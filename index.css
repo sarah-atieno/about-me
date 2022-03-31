@@ -1,0 +1,62 @@
+body{
+  background color:wheat;
+}
+h3::first-letter{
+  font-size:200%;
+  color: teal;
+}
+
+
+
+
+#sarah {
+  color:Orange;
+  font-size:50px;
+  text-shadow:2px 2px 2px grey;
+  text-align: center;
+}
+#my-photo {
+  border-radius: 50%;
+  position:relative;
+  left:700px;
+}
+#my-photo:hover{
+  height: 500;
+  width: 500;
+}
+.not {
+  text-align: center;
+  font-style:italic;
+}
+.not{
+  color:orange;
+  font-size: 20px
+}
+.not:hover{
+  color:teal;
+}
+.set{
+  text-align: center;
+  color:teal;
+  font-size: 40px;
+}
+.sit{
+  text-align: center;
+  color:teal;
+  font-size: 40px;
+}
+
+  #sat {
+    position:relative;
+    left:800px;
+    border-radius: 10px;
+    height: 50px;
+    width:150px;
+    background-color:orange;
+    color:teal;
+    box-shadow: 5px 5px;
+    font-size:18px;
+  }
+  #sat:hover {
+    color: teal;background-color: teal;
+  }
