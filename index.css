@@ -24,7 +24,7 @@ h3::first-letter{
   height: 500;
   width: 500;
 }
-.not {
+.not {list-style-type: none;
   text-align: center;
   font-style:italic;
 }
